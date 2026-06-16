@@ -74,6 +74,8 @@ ao compose "帮我写一篇关于 AI Agent 的深度分析文章" --run
   </a>
 </p>
 
+> **社区编排方案**：[@Staok](https://github.com/Staok) 做了个 [agency-agents-router-skill](https://github.com/Staok/agency-agents-router-skill)（也在 [ClawHub](https://clawhub.ai/staok/agency-agents-router)）——让 OpenClaw 自动识别并编排本仓库的各个智能体。感谢社区贡献！🙏
+
 ---
 
 ## 这是什么？
