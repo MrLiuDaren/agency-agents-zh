@@ -50,8 +50,8 @@ OUT_DIR="$REPO_ROOT/integrations"
 TODAY="$(date +%Y-%m-%d)"
 
 AGENT_DIRS=(
-  academic design engineering finance game-development hr legal marketing paid-media sales product
-  project-management supply-chain testing support spatial-computing specialized
+  academic design engineering finance game-development gis hr legal marketing paid-media sales product
+  project-management security supply-chain testing support spatial-computing specialized
 )
 
 # --- 用法 ---
@@ -430,6 +430,7 @@ get_qoder_tools() {
     engineering)        echo "Read, Grep, Glob, Bash, Edit, Write" ;;
     finance)            echo "Read, Write, WebSearch" ;;
     game-development)   echo "Read, Bash, Edit, Write" ;;
+    gis)                echo "Read, Bash, Edit, Write, WebFetch" ;;
     hr)                 echo "Read, Write, WebFetch" ;;
     legal)              echo "Read, Write, WebFetch" ;;
     marketing)          echo "Read, Write, WebSearch, WebFetch" ;;
@@ -437,6 +438,7 @@ get_qoder_tools() {
     product)            echo "Read, Write, WebSearch, WebFetch" ;;
     project-management) echo "Read, Write, Bash" ;;
     sales)              echo "Read, Write, WebFetch, WebSearch" ;;
+    security)           echo "Read, Grep, Glob, Bash, Edit, Write" ;;
     spatial-computing)  echo "Read, Bash, Edit, Write" ;;
     specialized)        echo "Read, Write, WebFetch, WebSearch" ;;
     supply-chain)       echo "Read, Write, WebFetch" ;;

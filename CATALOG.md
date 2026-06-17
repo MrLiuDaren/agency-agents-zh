@@ -306,3 +306,36 @@
 | 测试结果分析师 | `testing/testing-test-results-analyzer.md` |
 | 工具评估师 | `testing/testing-tool-evaluator.md` |
 | 工作流优化师 | `testing/testing-workflow-optimizer.md` |
+
+## 🗺️ GIS 部 (13)
+
+| 中文名 | 文件路径 |
+|--------|----------|
+| 三维场景开发者 | `gis/gis-3d-scene-developer.md` |
+| GIS 分析师 | `gis/gis-analyst.md` |
+| BIM/GIS 专家 | `gis/gis-bim-specialist.md` |
+| 地图制图设计师 | `gis/gis-cartography-designer.md` |
+| 无人机实景测绘专家 | `gis/gis-drone-reality-mapping.md` |
+| GeoAI/ML 工程师 | `gis/gis-geoai-ml-engineer.md` |
+| 地理处理专家 | `gis/gis-geoprocessing-specialist.md` |
+| GIS 质检工程师 | `gis/gis-qa-engineer.md` |
+| 解决方案工程师 | `gis/gis-solution-engineer.md` |
+| 空间数据工程师 | `gis/gis-spatial-data-engineer.md` |
+| 空间数据科学家 | `gis/gis-spatial-data-scientist.md` |
+| 技术顾问 | `gis/gis-technical-consultant.md` |
+| Web GIS 开发工程师 | `gis/gis-web-gis-developer.md` |
+
+## 🛡️ 安全部 (10)
+
+| 中文名 | 文件路径 |
+|--------|----------|
+| 应用安全工程师 | `security/security-appsec-engineer.md` |
+| 安全架构师 | `security/security-architect.md` |
+| 区块链安全审计师 | `security/security-blockchain-security-auditor.md` |
+| 云安全架构师 | `security/security-cloud-security-architect.md` |
+| 合规审计师 | `security/security-compliance-auditor.md` |
+| 事件响应专家 | `security/security-incident-responder.md` |
+| 渗透测试员 | `security/security-penetration-tester.md` |
+| 高级安全运营工程师 | `security/security-senior-secops.md` |
+| 威胁检测工程师 | `security/security-threat-detection-engineer.md` |
+| 威胁情报分析师 | `security/security-threat-intelligence-analyst.md` |
